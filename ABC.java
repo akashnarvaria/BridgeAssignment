@@ -3,5 +3,6 @@ public class ABC{
 		System.out.println("Java");
 		System.out.println("Python");
 		System.out.println("C++");
+		System.out.println("JavaScript");
 	}
 }
