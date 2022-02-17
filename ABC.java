@@ -4,5 +4,6 @@ public class ABC{
 		System.out.println("C++");
 		System.out.println("Python");
 		System.out.println("javascript");
+		System.out.println("TypeScript");
 	}
 }
